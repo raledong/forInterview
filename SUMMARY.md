@@ -11,4 +11,6 @@
     * [常见问题](db/common_question.md)
 * [Algorithm](algorithm/README.md)
     * [常见问题](algorithm/common_question.md)
+* [UML](uml/README.md)
+* [design patther](designPattern/README.md)
 
